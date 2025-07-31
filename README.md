@@ -1,10 +1,7 @@
-# 🌳 Tree Shaking - "코드를 흔들어 가볍게"
+# 🌳 "코드를 흔들어 가볍게" - Tree Shaking
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)](https://www.ecma-international.org/ecma-262/)
 [![Bundler](https://img.shields.io/badge/Bundler-Webpack%20%7C%20Rollup-blue)](https://webpack.js.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-> **사용되지 않는 코드(dead code)를 제거하여 번들 크기를 최적화하는 기법**
 
 ## 📖 목차
 
@@ -14,7 +11,6 @@
 4. [Tree Shaking in RollupJS](#tree-shaking-in-rollupjs)
 5. [정리](#정리)
 
----
 
 ## 🔧 번들링이란?
 
